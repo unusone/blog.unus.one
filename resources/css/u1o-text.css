@@ -197,7 +197,13 @@ pre > code {
 	font-style: normal;
 	font-weight: lighter;
 }
- 
+
+.footnote, .footnote-a {
+	text-decoration: none;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: lighter;
+} 
 
 /* HEADER */
 .header-inline {
