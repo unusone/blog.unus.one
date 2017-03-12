@@ -6,66 +6,19 @@
   
 	
     {
-      "title": "postTitle-1",
+      "title": "Markdown - Was ist Markdown?",
       "date": "01.03.2017",
-      "summary": "hier kommt summery full",
-      "link": "http://blog.unus.one/posts/test.html",
+      "summary": "Markdown ist eine vereinfachte Auszeichnungssprache, die von John Gruber und Aaron Swartz entworfen und im Dezember 2004 mit Version 1.0.1 spezifiziert wurde. Ein Ziel von Markdown ist, dass schon die Ausgangsform ohne weitere Konvertierung leicht lesbar ist.",
+      "link": "http://blog.unus.one/posts/unus_one_blog_post01032017001.html",
       "author": "Samuel Mofrad",
-      "category": "Java",
+      "category": "Markdown",
       "tags": [
-        "java",
-        "j2se",
-        "linux"
+        "Markdown"
       ]
     },
     
   
   
-	{
-      "title": "postTitle-2",
-      "date": "01.03.2017",
-      "summary": "hier kommt summery full",
-      "link": "http://blog.unus.one/posts/test.html",
-      "author": "Samuel Mofrad",
-      "category": "Java",
-      "tags": [
-        "java",
-        "j2se",
-        "linux"
-      ]
-    },
-
-    
-    
-	{
-      "title": "postTitle-3",
-      "date": "01.03.2017",
-      "summary": "hier kommt summery full",
-      "link": "http://blog.unus.one/posts/test.html",
-      "author": "Samuel Mofrad",
-      "category": "Java",
-      "tags": [
-        "java",
-        "j2se",
-        "linux"
-      ]
-    },
-	
-	
-		
-	{
-      "title": "postTitle-4",
-      "date": "01.03.2017",
-      "summary": "hier kommt summery full",
-      "link": "http://blog.unus.one/posts/test.html",
-      "author": "Samuel Mofrad",
-      "category": "Java",
-      "tags": [
-        "java",
-        "j2se",
-        "linux"
-      ]
-    }
 
     
   ]  
