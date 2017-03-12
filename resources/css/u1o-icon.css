@@ -1,0 +1,57 @@
+/* unus.one U1O Framework */
+/* Awesome, solid, responsive and complete front-end prototyping framework for web-developers */
+
+
+/*			 */
+/*	U1O ICON */
+/*			 */
+
+
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.tag {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 27px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  color: #31708f;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
+
+
+.tag-text {
+	display: inline;
+	font-family: 'Gidugu';
+	color: #31708f;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 25px;  /* Preferred icon size */
+}
+
+.tag-link {
+	text-decoration: none;
+	background-color: #d9edf7;
+    padding: 7px 17px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	border-radius: 15px;
+}

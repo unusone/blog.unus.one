@@ -1,0 +1,228 @@
+/* unus.one U1O Framework */
+/* Awesome, solid, responsive and complete front-end prototyping framework for web-developers */
+
+
+/*			    */
+/*	U1O COLOR	*/
+/*			    */
+
+/* Blog Color */
+
+.title-color {
+	color: #00004d;
+}
+
+.text-color {
+	color: #808080;
+}
+
+.mini-title {
+	color: #616161;
+}
+
+/* COLOR */
+
+.u1o-gray {
+	color: #cccccc;
+}
+
+.u1o-orange {
+	color: #ff6347;
+}
+
+.u1o-goodBlue {
+	color: #4747ff;
+}
+
+.u1o-skyBlue {
+    color: #47a3ff;
+}
+
+.u1o-cleanBlue {
+	color: #6a5acd;
+}
+
+.u1o-goodCleanBlue {
+	color: #1f184e;
+}
+
+.u1o-blue {
+	color:#4775ff;
+}
+
+.u1o-goodRed {
+	color: #ff4747;
+}
+
+.u1o-red {
+	color: #ff2600;
+}
+
+.u1o-Smoke {
+	color: #f5f5f5;
+} 
+
+.u1o-snowWhite {
+	color: #fffafa;
+}
+
+.u1o-white {
+	color: #ffffff;
+}
+
+.u1o-black {
+	color: #000000;
+}
+
+/* Background - Color */
+
+.u1obg-black {
+	background-color: #000000;
+}
+
+.u1obg-Smoke {
+	background-color: #f5f5f5;
+} 
+
+.u1obg-snowWhite {
+	background-color: #fffafa;
+}
+
+.u1obg-white {
+	background-color: #ffffff;
+}
+
+
+/* UBUNTU COLOR */
+/* Link: http://design.ubuntu.com/brand/colour-palette */
+
+.u1o-ubuntu-orange {
+	color: #E95420;
+}
+
+.u1obg-ubuntu-orange {
+	background-color: #E95420;
+}
+
+
+.u1o-ubuntu-LightAubergine {
+	color: #77216F;
+}
+
+.u1obg-ubuntu-LightAubergine {
+	background-color: #77216F;
+}
+
+.u1o-ubuntu-MidAubergine {
+	color: #5E2750;
+}
+
+.u1obg-ubuntu-MidAubergine {
+	background-color: #5E2750;
+}
+
+.u1o-ubuntu-DarkAubergine {
+	color: #2C001E;
+}
+
+.u1obg-ubuntu-DarkAubergine {
+	background-color: #2C001E;
+}
+
+.u1o-ubuntu-WarmGrey {
+	color: #AEA79F;
+}
+
+.u1obg-ubuntu-WarmGrey {
+	background-color: #AEA79F;
+}
+
+.u1o-ubuntu-CoolGrey {
+	color: #333333;
+}
+
+.u1obg-ubuntu-CoolGrey {
+	background-color: #333333;
+}
+
+.u1o-ubuntu-CanonicalAubergine {
+	color: #772953;
+}
+
+.u1obg-ubuntu-CanonicalAubergine {
+	background-color: #772953;
+}
+
+/* UNUSONE COLOR */
+
+.unusone-Blue {
+	color: #5e42a6;
+}
+
+.unusone-bgBlue {
+	background-color: #5e42a6;
+}
+
+.unusone-DarkBlue {
+	color: #312450;
+}
+
+.unusone-bgDarkBlue {
+	background-color: #312450;
+}
+
+.unusone-Violet {
+	color: #3c2c62;
+}
+
+.unusone-bgViolet {
+	background-color: #3c2c62;
+}
+
+.unusone-DarkViolet {
+	color: #261c3e;
+}
+
+.unusone-bgDarkViolet {
+	background-color: #261c3e;
+}
+
+.unusone-LBlue {
+	color: #493382;
+}
+
+.unusone-bgLBlue {
+	background-color: #493382;
+}
+
+.unusone-LightBlue {
+	color: #5052b5;
+}
+
+.unusone-bgLightBlue {
+	background-color: #5052b5;
+}
+
+.unusone-BBlue {
+	color: #3e4094;
+}
+
+.unusone-bgBBlue {
+	background-color: #3e4094;
+}
+
+.unusone-Pink {
+	color: #b74e91;
+}
+
+.unusone-bgPink {
+	background-color: #b74e91;
+}
+
+.unusone-DarkPink {
+	color: #953d75;
+}
+
+.unusone-bgDarkPink {
+	background-color: #953d75;
+}

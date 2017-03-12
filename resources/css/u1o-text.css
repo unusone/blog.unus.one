@@ -1,0 +1,453 @@
+/* unus.one U1O Framework */
+/* Awesome, solid, responsive and complete front-end prototyping framework for web-developers */
+
+
+/*				        */
+/*	U1O TEXT RESPONSIVE	*/
+/*				        */
+
+@import url("u1o-font.css");
+
+
+/* font-family */
+
+.title, .title2, .title3, .text{
+	font-family: 'Source Sans Pro';
+}
+
+/* NEW */
+
+/* background: #f4f5f6; 
+*/
+
+code {
+  font-family: 'Source Code Pro';
+  background: #002b36;
+  border-radius: .4rem;
+  font-size: 86%;
+  margin: 0 .2rem;
+  padding: .2rem .5rem;
+  white-space: nowrap;
+}
+
+pre {
+  background: #002b36;
+  border-left: 0.3rem solid #9b4dca;
+  overflow-y: hidden;
+  margin-bottom: 2.5rem;
+}
+
+pre > code {
+  border-radius: 0;
+  display: block;
+  padding: 1rem 1.5rem;
+  white-space: pre;
+}
+
+
+/* TITLE */
+.title {
+	font-size: 50px;
+	font-style: normal;
+	font-weight: normal;
+	margin: 1;
+	padding: 0;
+}
+
+.title2 {
+	font-size: 40px;
+	font-style: normal;
+	font-weight: normal;
+	margin: 1;
+	padding: 0;
+}
+
+.title3 {
+	font-size: 30px;
+	font-style: normal;
+	font-weight: normal;
+	margin: 1;
+	padding: 0;
+}
+
+.mini-title3 {
+	font-size: 22px;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	margin: 1;
+	padding: 0;
+}
+
+.summary {
+	font-size: 16px;
+	font-style: normal;
+	font-weight: lighter;
+	text-decoration: none;
+	text-align: justify;
+	margin: 1;
+	padding: 0;
+}
+
+.summary-info {
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: left;
+	margin: 1;
+	padding: 0;
+}
+
+.text {
+	font-family: 'Assistant';
+	font-size: 20px;
+	font-style: normal;
+	font-weight: lighter;
+	margin-top: 0.5em;
+	margin-bottom: 1.5em;
+	padding: 0;
+	text-align: justify;
+}
+
+.text-box-red {
+	font-family: 'Advent Pro';
+	font-size: 20px;
+	font-style: normal;
+	font-weight: lighter;
+	margin-top: 0.5em;
+	margin-bottom: 1.5em;
+	padding: 15px;
+	text-align: justify;
+	background-color: #f2dede;
+	color: #a94442;
+	border-left: 3px solid #a94442;
+}
+
+.text-box-blue {
+	font-family: 'Advent Pro';
+	font-size: 20px;
+	font-style: normal;
+	font-weight: lighter;
+	margin-top: 0.5em;
+	margin-bottom: 1.5em;
+	padding: 15px;
+	text-align: justify;
+	background-color: #d9edf7;
+	color: #31708f;
+	border-left: 3px solid #31708f;
+}
+
+.text-box-green {
+	font-family: 'Advent Pro';
+	font-size: 20px;
+	font-style: normal;
+	font-weight: lighter;
+	margin-top: 0.5em;
+	margin-bottom: 1.5em;
+	padding: 15px;
+	text-align: justify;
+	background-color: #dff0d8;
+	color: #3c763d;
+	border-left: 3px solid #3c763d;
+}
+
+.text-box-yellow {
+	font-family: 'Advent Pro';
+	font-size: 20px;
+	font-style: normal;
+	font-weight: lighter;
+	margin-top: 0.5em;
+	margin-bottom: 1.5em;
+	padding: 15px;
+	text-align: justify;
+	background-color: #fcf8e3;
+	color: #8a6d3b;
+	border-left: 3px solid #8a6d3b;
+}
+
+/* FRAGMENT - POST - INFO */
+.authorh, .dateh, .last-modifiedh, .Commentsh {
+	display: inline;
+	color: #e6e6e6;
+	background-color: #fff;
+	font-family: 'Verdana';
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	border-left: 0px solid #fff;
+	padding: 3px;
+	margin: 1px;
+}
+.author{
+	display: inline;
+	color: #b74e91;
+	background-color: #fff;
+	font-family: 'Verdana';
+	font-size: 12px;
+	font-style: normal;
+	font-weight: lighter;
+}
+.date, .last-modified, .Comments {
+	display: inline;
+	color: #953d75;
+	background-color: #fff;
+	font-family: 'Verdana';
+	font-size: 12px;
+	font-style: normal;
+	font-weight: lighter;
+}
+ 
+
+/* HEADER */
+.header-inline {
+	display: inline;
+}
+
+/* HR */
+hr {
+	display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 1px;
+	color: #f2f2f2;
+}
+
+/* TEXT */
+
+.rtl {
+	direction: rtl;
+}
+
+.ltr {
+	direction:ltr;
+}
+
+/* letter-spacing */
+.ls-1 {
+	letter-spacing: 1px;
+}
+.ls-2 {
+	letter-spacing: 2px;
+}
+.ls-3 {
+	letter-spacing: 3px;
+}
+
+/* line-height */
+.line-tightly{
+	line-height: 90%;	
+}
+.line-normal{
+	line-height: normal;	
+}
+.line-wide{
+	line-height: 180%;	
+}
+.line-xwide{
+	line-height: 250%;	
+}
+
+/* text-align */
+.text-center {
+	text-align: center;
+}
+
+.text-left {
+	text-align: left;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.text-right {
+	text-align: justify;
+}
+
+/* text-decoration */
+.overline {
+	text-decoration: overline;
+}
+
+.through {
+	text-decoration: line-through;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+/* text-indent */
+.text.indent {
+	text-indent:50%;
+}
+
+/* text-shadow */
+.shadow {
+	text-shadow: 2px 2px #ccc;
+}
+
+/* text-transform */
+.uppercase {
+	text-transform: uppercase;
+}
+
+.lowercase {
+	text-transform: lowercase;
+}
+
+.capitalize {
+	text-transform: capitalize;
+}
+
+/* word-spacing */
+.word-spacing {
+	word-spacing: 30px;
+}
+
+/* text-overflow */
+
+
+
+
+/* BOX */
+
+/* BORDER BOX */
+.borderBox {
+   float: left;
+   margin: 10px;
+   padding: 10px;
+   max-width: 300px;
+   height: auto;
+   border-radius: 4px;
+   border: 1px solid #ccc;
+}   
+
+.borderBox-fix {
+   float: left;
+   margin: 10px;
+   padding: 10px;
+   max-width: 300px;
+   height: 300px;
+   border-radius: 4px;
+   border: 1px solid #ccc;
+}   
+
+/* FOOT-NOTE */
+
+.footer {
+    text-align: left;
+    font-size: 10px;
+    padding: 10px;
+}
+
+
+
+
+
+/* =============================== */
+/* ===       TAG - LIST        === */
+/* =============================== */
+
+/*
+
+****
+
+not forget: <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+****
+
+<section>
+  <h1> </h1>
+  <p> </p>
+</section>
+
+<div> </div>
+
+<div>
+  <h3> </h3>
+  <p> </p>
+</div>
+
+****
+
+<h1> </h1>
+<h2> </h2>
+<h3> </h3>
+<h4> </h4>
+<h5> </h5>
+<h6> </h6>
+
+****
+
+<a href=" " target="_blank" > </a>
+
+****
+
+<img src=" " alt=" " >
+
+****
+
+<b> </b>
+
+<i> </i>
+
+<p> </p>
+
+<pre> </pre>
+
+<span> = <p> My mother has <span style="color:blue;font-weight:bold">blue </span> eyes and my father has <span style="color:darkolivegreen;font-weight:bold"> dark green </span> eyes. </p>
+
+<small> good for footnote </small>
+
+<sub> subscript </sub>
+<sup> superscript </sup>
+
+<code> </code>
+
+<em> Emphasized text </em>
+<strong> Strong text </strong>
+<samp> Sample output from a computer program </samp>
+<kbd> Keyboard input </kbd>
+<var> Variable </var>
+
+<s> </s>
+
+<mark> </mark>
+
+<blockquote cite=" "> </blockquote>
+
+<bdi> IE Not supported </bdi>
+
+****
+
+<ol>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+</ol>
+
+
+<ul>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+</ul>
+
+****
+
+<hr>
+
+****
+
+<abbr title="World Health Organization">WHO</abbr>
+
+
+<noscript>Your browser does not support JavaScript!</noscript>
+
+
+*/

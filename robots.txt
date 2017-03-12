@@ -1,0 +1,3 @@
+Sitemap: http://blog.unus.one/sitemap.xml
+User-Agent: *
+Allow: /

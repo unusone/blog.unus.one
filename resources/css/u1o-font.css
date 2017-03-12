@@ -1,0 +1,64 @@
+/* unus.one U1O Framework */
+/* Awesome, solid, responsive and complete front-end prototyping framework for web-developers */
+
+
+/*			 */
+/*	U1O FONT */
+/*			 */
+
+
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+@import url("https://fonts.googleapis.com/css?family=Ubuntu");
+@import url("https://fonts.googleapis.com/css?family=Gidugu");
+@import url("https://fonts.googleapis.com/css?family=Damion");
+@import url("https://fonts.googleapis.com/css?family=Source+Code+Pro");
+@import url("https://fonts.googleapis.com/css?family=Cutive+Mono");
+@import url("https://fonts.googleapis.com/css?family=Josefin+Slab");
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display+SC");
+@import url("https://fonts.googleapis.com/css?family=Maven+Pro");
+@import url("https://fonts.googleapis.com/css?family=Assistant");
+@import url("https://fonts.googleapis.com/css?family=Advent+Pro");
+
+.u1o-gfont-SansPro {
+	font-family: 'Source Sans Pro';
+}
+
+.u1o-gfont-ubuntu {
+	font-family: 'Ubuntu';
+}
+
+.u1o-gfont-gidugu {
+	font-family: 'Gidugu';
+}
+
+.u1o-gfont-damion {
+	font-family: 'Damion';
+}
+
+.u1o-gfont-sourceCodePro {
+	font-family: 'Source Code Pro';
+}
+
+.u1o-gfont-sourceCode {
+	font-family: 'Cutive Mono';
+}
+
+.u1o-gfont-JosefinSlab {
+	font-family: 'Josefin Slab';
+}
+
+.u1o-gfont-PlayfairDisplaySC {
+	font-family: 'Playfair Display SC';
+}
+
+.u1o-gfont-MavenPro {
+	font-family: 'Maven Pro';
+}
+
+.u1o-gfont-MavenPro {
+	font-family: 'Assistant';
+}
+
+.u1o-gfont-MavenPro {
+	font-family: 'Advent Pro';
+}

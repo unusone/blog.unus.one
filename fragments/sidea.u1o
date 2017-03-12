@@ -1,0 +1,28 @@
+<div class="sideA">
+
+<div class="social-awe">
+<a class="social-a" href="http://samuel.unus.one/" target="_blank"><i class="fa fa-user-circle"></i></a>
+<a class="social-a" href="https://github.com/ShmuelMofrad" target="_blank"><i class="fa fa-github"></i></a>
+<a class="social-a" href="https://gitlab.com/unus.one" target="_blank"><i class="fa fa-gitlab"></i></a>
+<a class="social-a" href="https://twitter.com/shmuelmofrad" target="_blank"><i class="fa fa-twitter"></i></a>
+</div>
+
+<div class="archive-awe">
+<ul>
+	<li class="archive-i"><a class="archive-a" href="#">Java</a></li>
+	<li class="archive-i"><a class="archive-a" href="#">Linux</a></li>
+	<li class="archive-i"></i><a class="archive-a" href="#">Cloud</a></li>
+	<li class="archive-i"><a class="archive-a" href="#">enterprise programming</a></li>
+</ul>
+</div>
+
+<!--
+	<h2>What?</h2>
+	<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam</p>
+	<h2>Where?</h2>
+	<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam</p>
+	<h2>How?</h2>
+	<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam</p>
+-->
+<div style="height:500px;"></div>
+</div>
