@@ -185,11 +185,11 @@ video {
 
 /*teaser*/
 .teaser{
-     padding:0px;
+     padding:2px;
      display: block;
      margin: auto;
      border: 0px;
-     max-width: 100%;
+     width: 50%;
      height: auto;
 }
 
