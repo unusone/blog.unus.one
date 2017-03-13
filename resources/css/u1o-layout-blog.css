@@ -337,7 +337,7 @@ video {
 	.mini-post-div {
 		padding:7px;
 		margin:3px;
-		border-radius: 15px;
+		border-radius: 5px;
     }
 }
 
@@ -366,7 +366,7 @@ video {
 	.mini-post-div {
 		padding:7px;
 		margin:3px;
-		border-radius: 15px;
+		border-radius: 5px;
 	}
 
 }
@@ -396,7 +396,7 @@ video {
 	.mini-post-div {
 		padding:9px;
 		margin:40px;
-		border-radius: 15px;
+		border-radius: 5px;
 	}
 
 }
