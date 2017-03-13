@@ -30,11 +30,14 @@ body {
 	padding:0;
 	width: 100%;
 	height: 100%;
+	background-color: #e6e6e6;
+	/*
 	background-attachment: fixed;
 	background-color: #e1e6e1;
 	background-image: url("../img/overlay.png"), url("../img/background-1.jpg");
 	background-repeat: repeat, repeat-x;
 	background-size: 128px 128px, cover;
+	*/
 }
 
 /* GRID - SYSTEM */
