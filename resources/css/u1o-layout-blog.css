@@ -186,9 +186,11 @@ video {
 /*teaser*/
 .teaser{
      padding:0px;
-     margin:0px;
+     display: block;
+     margin: auto;
      border: 0px;
-     width:50%;
+     max-width: 100%;
+     height: auto;
 }
 
 /* POST-INFO */
