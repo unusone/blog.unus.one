@@ -304,6 +304,11 @@ video {
 	color: #fff;
 }
 
+/* Right Side */
+.rightside {
+	background-color: #616161;
+}
+
 /* @MEDIA */
 
 @media only screen and (min-width: 600px) {
@@ -349,6 +354,10 @@ video {
 		margin:3px;
 		border-radius: 5px;
     }
+	
+	.rightside {
+	background-color: #616161;
+        }
 }
 
 @media only screen and (min-width: 1024px) {
@@ -379,6 +388,11 @@ video {
 		border-radius: 5px;
 		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	}
+	
+	.rightside {
+	  background-color: #616161;
+	  border-left-style: 1px solid #fff;
+        }
 
 }
 
@@ -410,6 +424,12 @@ video {
 		border-radius: 5px;
 		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	}
+	
+	.rightside {
+	
+	 background-color: #616161;
+	 border-left-style: 1px solid #fff;
+       }
 
 }
 
