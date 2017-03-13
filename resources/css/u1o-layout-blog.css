@@ -173,14 +173,14 @@ video {
 	padding:7px;
 	margin:0px;
 	width:100%;
-	border-radius: 5px;
+	border-radius: 15px;
 }
 
 /*mini-post-div*/
 .mini-post-div {
 	padding:7px;
 	margin:3px;
-	border-radius: 15px;
+	border-radius: 5px;
 }
 
 /* POST-INFO */
