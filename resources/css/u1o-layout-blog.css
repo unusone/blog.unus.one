@@ -183,6 +183,14 @@ video {
 	border-radius: 5px;
 }
 
+/*teaser*/
+.teaser{
+     padding:0px;
+     margin:0px;
+     border: 0px;
+     width:5%;
+}
+
 /* POST-INFO */
 .post-info{
 	display: inline;
