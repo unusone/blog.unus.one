@@ -4,6 +4,21 @@
   "posts":[
   
   
+  {
+      "title": "Mein Lieblingsbegleiter: Java Der Grundkurs von Michael Kofler",
+      "date": "02.04.2017",
+      "summary": "Java-Grundkurs für die Jackentasche",
+      "link": "http://blog.unus.one/posts/unus_one_blog_post02042017001.html",
+      "teaser": "//s3-eu-west-1.amazonaws.com/cover2.galileo-press.de/print/9783836229234_800_2d.png",
+      "author": "Samuel Mofrad",
+      "category": "Java",
+      "tags": [
+        "Books, Java"
+      ]
+    },
+	
+	
+  
 	{
       "title": "Markdown Cheatsheet",
       "date": "01.03.2017",
